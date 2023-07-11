@@ -21,6 +21,7 @@
 
 int main()
 {
+	printf("Start Test\n");
 /*	int a=5, b=3;
 	swap(&a,&b);
 	printf("swap : %d %d\n" ,a,b);
